@@ -53,8 +53,8 @@ sub gen_sorter {
 
 =head1 prepend:SEE ALSO
 
-L<Sort::Sub::data_sruct_by_data_cmp>. Most of the time, you'd probably want this
-instead.
+L<Sort::Sub::data_struct_by_data_cmp>. Most of the time, you'd probably want
+this instead.
 
 L<Sort::Sub::by_perl_function>
 
